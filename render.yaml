@@ -51,4 +51,4 @@ services:
 
 databases:
   - name: strapi
-    plan: free # This database will expire 90 days after creation
+    plan: starter # This database will expire 90 days after creation
